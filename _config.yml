@@ -1,4 +1,3 @@
-layout_spectrum: 0.7686729924753308
 typography_spectrum: 0.08569030999206007
 color:
   brandStrength: 0.9876309011597186
@@ -11,5 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.7686729924753308
 name: Grow Tall
+navigation:
+  - name: Examples
+    id: 4058fe49-e84d-45a6-bc32-2e3bd68abd47
+    type: content
 title: Grow Tall
